@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Luca Di Gennaro Splendore | Luca Di Gennaro Splendore, Phd</title>
+    <link>https://lucadgsplendore.netlify.app/author/luca-di-gennaro-splendore/</link>
+      <atom:link href="https://lucadgsplendore.netlify.app/author/luca-di-gennaro-splendore/index.xml" rel="self" type="application/rss+xml" />
+    <description>Luca Di Gennaro Splendore</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://lucadgsplendore.netlify.app/author/luca-di-gennaro-splendore/avatar_hub8a054acd8da0dcd61aec5dd2ade553b_27843_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Luca Di Gennaro Splendore</title>
+      <link>https://lucadgsplendore.netlify.app/author/luca-di-gennaro-splendore/</link>
+    </image>
+    
+    <item>
+      <title>Welcome to Wowchemy, the website builder for Hugo</title>
+      <link>https://lucadgsplendore.netlify.app/post/getting-started/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://lucadgsplendore.netlify.app/post/getting-started/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
+&lt;li&gt;The template can be modified and customised to suit your needs. It&amp;rsquo;s a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a &lt;strong&gt;no-code solution (write in Markdown and customize with YAML parameters)&lt;/strong&gt; and having &lt;strong&gt;flexibility to later add even deeper personalization with HTML and CSS&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more&lt;/li&gt;
+&lt;/ol&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-the-template-is-mobile-first-with-a-responsive-design-to-ensure-that-your-site-looks-stunning-on-every-device&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png&#34; alt=&#34;The template is mobile first with a responsive design to ensure that your site looks stunning on every device.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      The template is mobile first with a responsive design to ensure that your site looks stunning on every device.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;h2 id=&#34;get-started&#34;&gt;Get Started&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;👉 &lt;a href=&#34;https://wowchemy.com/templates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Create a new site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;📚 &lt;a href=&#34;https://wowchemy.com/docs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Personalize your site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💬 &lt;a href=&#34;https://discord.gg/z8wNYzb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chat with the &lt;strong&gt;Wowchemy community&lt;/strong&gt;&lt;/a&gt; or &lt;a href=&#34;https://discourse.gohugo.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Hugo community&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🐦 Twitter: &lt;a href=&#34;https://twitter.com/wowchemy&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@wowchemy&lt;/a&gt; &lt;a href=&#34;https://twitter.com/GeorgeCushen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@GeorgeCushen&lt;/a&gt; &lt;a href=&#34;https://twitter.com/search?q=%28%23MadeWithWowchemy%20OR%20%23MadeWithAcademic%29&amp;amp;src=typed_query&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;#MadeWithWowchemy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💡 &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/issues&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Request a &lt;strong&gt;feature&lt;/strong&gt; or report a &lt;strong&gt;bug&lt;/strong&gt; for &lt;em&gt;Wowchemy&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;⬆️ &lt;strong&gt;Updating Wowchemy?&lt;/strong&gt; View the &lt;a href=&#34;https://wowchemy.com/docs/guide/update/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Update Guide&lt;/a&gt; and &lt;a href=&#34;https://wowchemy.com/updates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Release Notes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;crowd-funded-open-source-software&#34;&gt;Crowd-funded open-source software&lt;/h2&gt;
+&lt;p&gt;To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.&lt;/p&gt;
+&lt;h3 id=&#34;-click-here-to-become-a-sponsor-and-help-support-wowchemys-future-httpswowchemycomplans&#34;&gt;&lt;a href=&#34;https://wowchemy.com/plans/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;❤️ Click here to become a sponsor and help support Wowchemy&amp;rsquo;s future ❤️&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;As a token of appreciation for sponsoring, you can &lt;strong&gt;unlock &lt;a href=&#34;https://wowchemy.com/plans/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;these&lt;/a&gt; awesome rewards and extra features 🦄✨&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;ecosystem&#34;&gt;Ecosystem&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/wowchemy/hugo-academic-cli&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Academic CLI&lt;/a&gt;:&lt;/strong&gt; Automatically import publications from BibTeX&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;inspiration&#34;&gt;Inspiration&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Check out the latest &lt;strong&gt;demo&lt;/strong&gt;&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes, or &lt;a href=&#34;https://wowchemy.com/user-stories/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;view the &lt;strong&gt;showcase&lt;/strong&gt;&lt;/a&gt; of personal, project, and business sites.&lt;/p&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Page builder&lt;/strong&gt; - Create &lt;em&gt;anything&lt;/em&gt; with &lt;a href=&#34;https://wowchemy.com/docs/page-builder/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;widgets&lt;/strong&gt;&lt;/a&gt; and &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;elements&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Edit any type of content&lt;/strong&gt; - Blog posts, publications, talks, slides, projects, and more!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Create content&lt;/strong&gt; in &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Markdown&lt;/strong&gt;&lt;/a&gt;, &lt;a href=&#34;https://wowchemy.com/docs/import/jupyter/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Jupyter&lt;/strong&gt;&lt;/a&gt;, or &lt;a href=&#34;https://wowchemy.com/docs/install-locally/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;RStudio&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Plugin System&lt;/strong&gt; - Fully customizable &lt;a href=&#34;https://wowchemy.com/docs/customization/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;color&lt;/strong&gt; and &lt;strong&gt;font themes&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Display Code and Math&lt;/strong&gt; - Code highlighting and &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LaTeX math&lt;/a&gt; supported&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Integrations&lt;/strong&gt; - &lt;a href=&#34;https://analytics.google.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Analytics&lt;/a&gt;, &lt;a href=&#34;https://disqus.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Disqus commenting&lt;/a&gt;, Maps, Contact Forms, and more!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Beautiful Site&lt;/strong&gt; - Simple and refreshing one page design&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Industry-Leading SEO&lt;/strong&gt; - Help get your website found on search engines and social media&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Media Galleries&lt;/strong&gt; - Display your images and videos with captions in a customizable gallery&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mobile Friendly&lt;/strong&gt; - Look amazing on every screen with a mobile friendly version of your site&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multi-language&lt;/strong&gt; - 34+ language packs including English, 中文, and Português&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multi-user&lt;/strong&gt; - Each author gets their own profile page&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Privacy Pack&lt;/strong&gt; - Assists with GDPR&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Stand Out&lt;/strong&gt; - Bring your site to life with animation, parallax backgrounds, and scroll effects&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;One-Click Deployment&lt;/strong&gt; - No servers. No databases. Only files.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;p&gt;Wowchemy and its templates come with &lt;strong&gt;automatic day (light) and night (dark) mode&lt;/strong&gt; built-in. Alternatively, visitors can choose their preferred mode - click the moon icon in the top right of the &lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Demo&lt;/a&gt; to see it in action! Day/night mode can also be disabled by the site admin in &lt;code&gt;params.toml&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/customization&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Choose a stunning &lt;strong&gt;theme&lt;/strong&gt; and &lt;strong&gt;font&lt;/strong&gt;&lt;/a&gt; for your site. Themes are fully customizable.&lt;/p&gt;
+&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
+&lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Measuring Modern Slavery</title>
+      <link>https://lucadgsplendore.netlify.app/publication/measuring-modern-slavery/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://lucadgsplendore.netlify.app/publication/measuring-modern-slavery/</guid>
+      <description>&lt;h3 id=&#34;why-do-we-need-to-measure-modern-slavery&#34;&gt;Why do we need to measure Modern Slavery?&lt;/h3&gt;
+&lt;p&gt;Generally speaking, Modern Slavery could be defined as severe exploitation of other people for their business gains. Millions of children and adults are trapped in slavery in every single country in the world. Modern Slavery is a complex phenomenon: mostly, illegal and hidden. It is difficult to take the right political decisions, without any statistical evidence, data and information. Therefore, policy-makers need reliable data to act against Modern Slavery. A problem is that the data is transversal to different economic and social sectors. Adequate statistics are often not available.&lt;/p&gt;
+&lt;p&gt;From a statistical point of view, the Modern Slavery population is a hidden population (as COVID or HIV infected, illegal activities, prostitution and so on). To survey a hidden population, it is difficult to find a statistical sample. And, the questions normally are sensitive, so one could expect an extent of partial or total misreporting. Many techniques are available for a hidden population at micro level, nevertheless no one can guarantee soundly the statistical results.&lt;/p&gt;
+&lt;h3 id=&#34;does-modern-slavery-data-in-part-already-exist&#34;&gt;Does Modern Slavery data in part already exist?&lt;/h3&gt;
+&lt;p&gt;As Modern Slavery is a horizontal phenomenon, data can be found in many other surveys that do not have the aim to measure Modern Slavery. For instance, the UN Refugee Agency (UNHCR) does surveys on refugees and there are many questions about illegal activity. Those questions can be used to measure Modern Slavery. From these statistical methods will be applied to extract, in a methodological way, the relevant information of Modern Slavery. In addition to the statistical methods, another source of information is by accessing administrative data.&lt;/p&gt;
+&lt;p&gt;The official statistics offices already look after the illegal economic activities in the National Accounts (basically the GDP). Nevertheless, there are no statistical policies of any national statistics offices to measure Modern Slavery.&lt;/p&gt;
+&lt;p&gt;To identify proxy variables or to identify indirect measures of Modern Slavery (for instance to estimate illegal drug consumption, one can chemically analyse the drainage system or total tax evaders, one cannot pay tax in slavery). Connected with a proxy variable to find the interactions (for instance with an election or democracy) and the determinants that create a fertile environment for Modern Slavery can be another goal of this research. Partial democratic societies, as well as inequal and high-income societies, could represent a good combination to ‘establish’ Modern Slavery. Also, natural and human phenomena can help the creation of Modern Slavery, like post-disaster, environmental degradation, deforestation, war and post-war environment. Some economic sectors seem to be more affected from Modern Slavery.&lt;/p&gt;
+&lt;p&gt;Modern Slavery is a multi-faceted phenomenon which affects not only the individual freedom, but also many other life essential decisions (pregnancy, location, life enjoyment and
+free time).&lt;/p&gt;
+&lt;p&gt;This vulnerability may be estimated from living conditions such as employment, health, education, and housing. It is important to monitor gender differences and age (children seem to be the most effected category) or citizenship status (maybe refugee, illegal immigration…), and, also, to understand the causes of these differences, in order to prepare strategies for more efficient intervention schemes aimed at the eradication of Modern Slavery.&lt;/p&gt;
+&lt;h3 id=&#34;what-should-be-the-protocol-to-calculate-modern-slavery-in-the-official-statistics-system&#34;&gt;What should be the protocol to calculate Modern Slavery in the official statistics system?&lt;/h3&gt;
+&lt;p&gt;This complexity of Modern slavery poses challenges for many domains within official statistics and non-official statistics. It is indeed necessary to use different sources of data, statistics and administrative registers and to build a new set of static and dynamic indicators to develop at international, national and sub-national level. Those data can be contextualized in the framework of the measurement of Sustainable Development Goals (SDG) of the United Nations. In particular, it focuses on SDG 8.7, namely on forced labour under the effort of the International Labour Organization (ILO). This way, the official information derived from all the research studies on Modern Slavery could serve as a catalyst for participation in decision-making. Official statisticians are key actors for the realization of the right to information and for human rights in general (Fundamental Principles of Official Statistics). Thus, a protocol and suggestions for official statistics system to measure Modern Slavery is the operative and applied framework of this research. This idea could also have great and relevant practical implications to act against Modern Slavery.&lt;/p&gt;
+&lt;p&gt;I’m looking forward to discussing these and other topics at the 2020 Virtual UN World Data Forum. The upholding of official data quality can contribute to build trust in official data and statistics, will play an crucial role in creating a more strong community.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>COVID-19: Unprecedented Situation, Unprecedented Official Statistics</title>
+      <link>https://lucadgsplendore.netlify.app/publication/covid-19-unprecedented-situation-unpre-cedented-official-statistics/</link>
+      <pubDate>Mon, 15 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://lucadgsplendore.netlify.app/publication/covid-19-unprecedented-situation-unpre-cedented-official-statistics/</guid>
+      <description>&lt;h3 id=&#34;covid-19&#34;&gt;COVID-19:&lt;/h3&gt;
+&lt;h4 id=&#34;unprecedented-situation-unprecedented-official-statistics&#34;&gt;Unprecedented Situation, Unprecedented Official Statistics&lt;/h4&gt;
+&lt;p&gt;The  COVID-19  outbreak  dominated  the  beginning  of  2020.  Almost  every  country andevery  socio-economic  sector  is  facing  this  unique  situation.  Official  statistics  need  toconfront  new  challenges,  both  internally  and  externally.  Internally,  every  NationalStatistics Office (NSO) needs to protect their workers, reorganize their way of working,and  ensure  the  regular  statistics  production.  Externally,  NSOs  are  called  to  make  astatistical description of an unprecedented complex reality.The aim of an NSO is not only to produce official statistics but also to provide a realistic‘picture’ of our world, even in times of crisis. However, an official statistics system shouldnot  limit  itself  to  those  standard  tasks.  NSOs  should  provide  and  participate  to  theproduction  of  data  and  information  on  COVID-19.  For  instance,  the  United  NationsStatistics   Division   is   actively   recommending   guidelines,   sharing   experiences   andcollecting data for COVID-19 (United Nations Statistics Division 2020). However, underthe threat of COVID-19 many countries are considering official statistics as a non-essentialservice (Cheung 2020a). Are official statistics a non-essential service?The aim of this letter is: (1) to analyze the role of NSOs during the COVID-19 healthcrisis,  (2)  to  summarize  challenges  and  opportunities  lying  ahead,  (3)  to  trigger  thediscussion about the role of NSOs.For the sake of simplicity, let us distinguish between two different temporal phases ofthe COVID-19 epidemic. The first phase is predominated by health crisis and lockdown.This phase affects the population. The second phase starts when the health crisis is undercontrol (IAOS 2020). Once the lockdown has been revoked, the country is facing a newsocio-economic  situation  that  was  completely  unpredictable  in  January  2020.  This  lastphase is full of challenges and opportunities for NSOs.During  lockdown,  citizens  are  reading  or  listening  to  the  figures  of  new  COVID-19cases and daily deaths. These numbers are unreliable, not harmonized and scarce. They donot provide a secure starting point to understand the situation, nor do they help in makingproper  decisions.  What  drives  the  production  of  these  figures  –  cases  and  deaths  ofCOVID-19 – is a medical objective. These figures are necessary to diagnose and care forpatients. Nevertheless, we also need figures to better understand the spread of COVID-19.We need figures to help implement the lockdown only when and where lockdowns arenecessary. After the health crisis, we will need statistics to help us fully understand thenew socio-economic situation and the details of the economic recession. We need reliablefigures to plan for the future.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>COVID-19: Unprecedented Situation, Unprecedented Official Data, Unprecedented Quality Data</title>
+      <link>https://lucadgsplendore.netlify.app/publication/covid-19-unprecedented-situation-un-precedented-official-data-unprecedented-quality-data/</link>
+      <pubDate>Sat, 30 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://lucadgsplendore.netlify.app/publication/covid-19-unprecedented-situation-un-precedented-official-data-unprecedented-quality-data/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://player.vimeo.com/video/514290913&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Pandemic Democracy: Elections and COVID-19</title>
+      <link>https://lucadgsplendore.netlify.app/publication/pandemic-democracy-elections-and-covid-19/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://lucadgsplendore.netlify.app/publication/pandemic-democracy-elections-and-covid-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Random testing, quality of data and lack of information: COVID-19</title>
+      <link>https://lucadgsplendore.netlify.app/publication/random-testing-quality-of-data-and-lack-of-information-covid-19-data-policy/</link>
+      <pubDate>Fri, 10 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://lucadgsplendore.netlify.app/publication/random-testing-quality-of-data-and-lack-of-information-covid-19-data-policy/</guid>
+      <description>&lt;h3 id=&#34;quality-of-data&#34;&gt;Quality of Data&lt;/h3&gt;
+&lt;p&gt;If you don’t do any blood tests then you don’t have high cholesterol. The cases of COVID-19 depend on how many persons each country tested and how they were tested. For instance availability of the test, asymptomatic cases, whether only the people in the hospital are tested, or whether only the people in contact with infected people are tested, random test… The number of cases of COVID-19 is not a trustable measure of how many people are infected by COVIS-19. Moreover, it is useless for comparison. Infection by the virus can be provisionally diagnosed on the basis of symptoms, though confirmation is ultimately by an appropriate test. In most countries, the COVID-19 test policy changed over time. More probable than not we cannot compare over time the data of the same country.&lt;/p&gt;
+&lt;p&gt;The number of cases of COVID-19 is essential to calculate the Case Fatality Rate (CFR). The “mortality rate” is different from the CFR¹. I read quite a lot of confusing thoughts in the media. The CFR is the proportion of deaths from a certain disease compared to the total number of people diagnosed with the disease: deaths by COVID-19 of the total diagnosed cases of COVID-19. Whereas, the mortality rate is a measure of the number of deaths in a particular population.&lt;/p&gt;
+&lt;p&gt;Is there an overestimation of the CFR of COVID-19? Probably yes, if we calculate the CFR of COVID-19: death from COVID-19 to cases of infection of COVID-19. And if you underestimate the cases of infection of COVID-19, your case fatality rate (CFR) is higher. The cases of the infected are at the lower bound of the real situation. Seeing that we have not tested all of the population, in this case, this figure can be greatly biased downwards due to the non scientific sampling of the number of infections of COVID-19. The cases of COVID-19 should be tested by conducting a scientific random sample.&lt;/p&gt;
+&lt;h3 id=&#34;we-need-proper-information&#34;&gt;We need proper information&lt;/h3&gt;
+&lt;p&gt;The cases of COVID-19 should be tested by conducting a scientific random sample. Thanks to the scientific sample we can have all the information to fully understand the situation. For instance, if we want to analyse the Spanish or Maltaese situation, then the random sampling should be extracted from the entire Spanish or Maltese population. We can randomly select approximately 1000 people from amongst the Spanish people. Then every person in the sample will be tested (COVID-19 swab) but then they will also receive a questionnaire. The questionnaire will be focused on social habits, such as travelling, going to restaurants, family meetings, pubs, discos and whether they had contact with people with the COVID-19 virus. Like that we can have a picture of the phenomena and understand how many people have asymptomatic COVID-19.&lt;/p&gt;
+&lt;h3 id=&#34;a-sample-covid19-representative-of-the-population&#34;&gt;A sample COVID19 representative of the population&lt;/h3&gt;
+&lt;p&gt;From the entire population, a random sample representative of the population can be extracted. Every person in the sample will be tested for the COVID-19 (swab) and probably also his/her relatives. A questionnaire should accompany this random COVID-19 test survey. Questions on personal health conditions, social connections, traveling and social habits in the last weeks could be asked to the people. Probably this exercise could be repeated periodically until a stable situation is obtained or reached. A random stratified sample with an error margin of 2% at 95% confidence is needed.&lt;/p&gt;
+&lt;h4 id=&#34;in-conclusion&#34;&gt;In conclusion:&lt;/h4&gt;
+&lt;p&gt;Without data on the COVID-19 we cannot possibly understand how the pandemic is progressing locally.&lt;/p&gt;
+&lt;p&gt;Without data we cannot respond appropriately to the threat; neither as individuals nor as a society. Nor can we learn where countermeasures against the pandemic are working.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Note:&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Infection Fatality Rate (IFR) does not equal CFR. To calculate IFR you need to know the number of infected in the total population. IFR of COVID-19 is estimated to be 0.3–1%. In both measures, IFR and CFR, the important question is: How many people are infected? IFR will likely underestimate infection and if only those with more severe symptoms are screened, CFR will likely overestimate the fatality.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Viral democracy: COVID- 19 and elections</title>
+      <link>https://lucadgsplendore.netlify.app/publication/viral-democracy-covid-19-and-elections/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://lucadgsplendore.netlify.app/publication/viral-democracy-covid-19-and-elections/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Display Jupyter Notebooks with Academic</title>
+      <link>https://lucadgsplendore.netlify.app/post/jupyter/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://lucadgsplendore.netlify.app/post/jupyter/</guid>
+      <description>&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;from IPython.core.display import Image
+Image(&#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&#39;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./index_1_0.png&#34; alt=&#34;png&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;print(&amp;quot;Welcome to Academic!&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;Welcome to Academic!
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;install-python-and-jupyterlab&#34;&gt;Install Python and JupyterLab&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.anaconda.com/distribution/#download-section&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Install Anaconda&lt;/a&gt; which includes Python 3 and JupyterLab.&lt;/p&gt;
+&lt;p&gt;Alternatively, install JupyterLab with &lt;code&gt;pip3 install jupyterlab&lt;/code&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;create-or-upload-a-jupyter-notebook&#34;&gt;Create or upload a Jupyter notebook&lt;/h2&gt;
+&lt;p&gt;Run the following commands in your Terminal, substituting &lt;code&gt;&amp;lt;MY-WEBSITE-FOLDER&amp;gt;&lt;/code&gt; and &lt;code&gt;&amp;lt;SHORT-POST-TITLE&amp;gt;&lt;/code&gt; with the file path to your Academic website folder and a short title for your blog post (use hyphens instead of spaces), respectively:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;mkdir -p &amp;lt;MY-WEBSITE-FOLDER&amp;gt;/content/post/&amp;lt;SHORT-POST-TITLE&amp;gt;/
+cd &amp;lt;MY-WEBSITE-FOLDER&amp;gt;/content/post/&amp;lt;SHORT-POST-TITLE&amp;gt;/
+jupyter lab index.ipynb
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;The &lt;code&gt;jupyter&lt;/code&gt; command above will launch the JupyterLab editor, allowing us to add Academic metadata and write the content.&lt;/p&gt;
+&lt;h2 id=&#34;edit-your-post-metadata&#34;&gt;Edit your post metadata&lt;/h2&gt;
+&lt;p&gt;The first cell of your Jupter notebook will contain your post metadata (&lt;a href=&#34;https://sourcethemes.com/academic/docs/front-matter/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;front matter&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;In Jupter, choose &lt;em&gt;Markdown&lt;/em&gt; as the type of the first cell and wrap your Academic metadata in three dashes, indicating that it is YAML front matter:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;---
+title: My post&#39;s title
+date: 2019-09-01
+
+# Put any other Academic metadata here...
+---
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Edit the metadata of your post, using the &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;documentation&lt;/a&gt; as a guide to the available options.&lt;/p&gt;
+&lt;p&gt;To set a &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#featured-image&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;featured image&lt;/a&gt;, place an image named &lt;code&gt;featured&lt;/code&gt; into your post&amp;rsquo;s folder.&lt;/p&gt;
+&lt;p&gt;For other tips, such as using math, see the guide on &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;writing content with Academic&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;convert-notebook-to-markdown&#34;&gt;Convert notebook to Markdown&lt;/h2&gt;
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;jupyter nbconvert index.ipynb --to markdown --NbConvertApp.output_files_dir=.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;example&#34;&gt;Example&lt;/h2&gt;
+&lt;p&gt;This post was created with Jupyter. The orginal files can be found at &lt;a href=&#34;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The price dispersion of Barcelona fish market: A probabilistic explanation</title>
+      <link>https://lucadgsplendore.netlify.app/publication/the-price-dispersion-of-barcelona-fish-market-a-probabilistic-explanation/</link>
+      <pubDate>Wed, 23 Jun 2010 00:00:00 +0000</pubDate>
+      <guid>https://lucadgsplendore.netlify.app/publication/the-price-dispersion-of-barcelona-fish-market-a-probabilistic-explanation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analisi comparata della competitività delle destinazioni turistiche</title>
+      <link>https://lucadgsplendore.netlify.app/publication/analisi-comparata-della-competitivita-delle-destinazioni-turistiche/</link>
+      <pubDate>Sat, 01 May 2010 00:00:00 +0000</pubDate>
+      <guid>https://lucadgsplendore.netlify.app/publication/analisi-comparata-della-competitivita-delle-destinazioni-turistiche/</guid>
+      <description>&lt;p&gt;L’analisi di benchmarking della competitività della Riviera di Rimini si sviluppa in tre fasi principali: • INDIVIDUAZIONE degli aspetti che qualificano il management delle destinazioni e delle aziende turistiche e delle variabili che misurano questi aseptti; • SELEZIONE dell’arena di confronto, cioè delle destinazioni turistiche che, per le caratteristiche dell’offerta, consentono la comparazione delle strategie manageriali e politiche con quelle della Riviera di Rimini • SCOPERTA dei FATTORI CRITICI DI SUCCESSO delle destinazioni turistiche e definizione delle strategie vincenti per la Riviera di Rimini. Il destination management del binomio Costa Brava – Barcellona è imperniato sulla cultura delle tre “L”, ovvero Landscape, Leasure e Learning che definiscono un turismo attivo e propositivo affiancato da un’incisiva azione concreta, attraverso investimenti strategici da parte delle pubbliche amministrazioni che hanno destinato allo sviluppo turistico il 6,4% del PIL cioè circa il doppio dell’investimento dei vari organi di governo nella Riviera di Rimini (3,5% del PIL). La valorizzazione del turismo catalano e della Costa Brava è stato supportata da investimenti pubblici che ne hanno assicurato il successo attraverso il coinvolgimento attivo e sinergico dei tre livelli di governo: centrale, regionale e municipale. I risultati dimostrano che è stato un investimento efficiente e che la spesa pubblica è stata ampiamente ripagata dai benefici per la popolazione, per l’occupazione e per la qualità della vita nell’area (maggiori entrate da tasse e minori spese per il welfare). L’analisi del posizionamento delle tre destinazioni ha messo in evidenza marcate differenze ed ha mostrato la debolezza dell’offerta riminese, soprattutto sui mercati esteri. Le difficoltà sui mercati internazionali sono molto negative in questa fase di globalizzazione, ma sono anche il segnale più rilevante di deficit strategici e della necessità di introdurre modifiche strutturali del management di prodotto e di destinazione. L’accessibilità (aerea, viaria , marina e ferroviaria) è un fattore di successo del sistema turistico “Barcellona - Costa Brava” che utilizza anche i canali telematici sia per la comunicazione, sia per la commercializzazione (booking e pagamento on line). Le infrastrutture telematiche della Riviera di Rimini sono più lente di quelle dei competitor e sono meno utilizzate. Il capitale umano costituisce un ulteriore fattore di debolezza della Riviera di Rimini rispetto ai competitor. La Croazia punta molto sulla professionalità degli operatori. Le imprese investono in corsi di aggiornamento per i propri dipendenti, poiché la qualificazione del personale è ritenuta fondamentale per una ospitalità eccellente. L’analisi comparata dei risultati conseguiti dalle tre destinazioni in cui è stata identificata l’arena paradigmatica di confronto, sulla base dei risultati dell’analisi del posizionamento, ha chiaramente confermato la qualificazione benchmark (best performer) della Costa Brava per alcuni aspetti e delle Coste Croate per altri. Il trend dell’attività turistica della Costa Brava è molto sostenuto: le presenze crescono ad un tasso medio di 8,1 punti all’anno Le Coste Croate sono caratterizzate da un trend delle presenze turistiche meno sostenuto (+3,9 punti all’anno), ma comunque rilevante, mentre la Riviera di Rimini evidenzia una sostanziale stagnazione delle presenze (+0,9% annuo). La debolezza emerge chiaramente a livello di presenze totali, nonostante le buone performance della Riviera di Rimini su alcuni mercati esteri.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Keynes, Farjoun, Machover and a probabilistic political economy. Probabilistic Political Economy “Laws of Chaos” in the 21st Century</title>
+      <link>https://lucadgsplendore.netlify.app/publication/keynes-farjoun-machover-and-a-probabilistic-political-economy.-probabilistic-political-economy-laws-of-chaos-in-the-21st-century/</link>
+      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+      <guid>https://lucadgsplendore.netlify.app/publication/keynes-farjoun-machover-and-a-probabilistic-political-economy.-probabilistic-political-economy-laws-of-chaos-in-the-21st-century/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Economic growth and the Ehrenfest fleas: The conver- gence among countries</title>
+      <link>https://lucadgsplendore.netlify.app/publication/economic-growth-and-the-ehrenfest-fleas-the-conver-gence-among-countries/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://lucadgsplendore.netlify.app/publication/economic-growth-and-the-ehrenfest-fleas-the-conver-gence-among-countries/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Ehrenfest fleas and economic growth theory</title>
+      <link>https://lucadgsplendore.netlify.app/publication/the-ehrenfest-fleas-and-economic-growth-theory/</link>
+      <pubDate>Fri, 01 Jun 2007 00:00:00 +0000</pubDate>
+      <guid>https://lucadgsplendore.netlify.app/publication/the-ehrenfest-fleas-and-economic-growth-theory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Household Participation in International Financial Markets: Empirical Evidence from Italy</title>
+      <link>https://lucadgsplendore.netlify.app/publication/household-participation-in-international-financial-markets-empirical-evidence-from-italy/</link>
+      <pubDate>Sun, 27 Aug 2006 00:00:00 +0000</pubDate>
+      <guid>https://lucadgsplendore.netlify.app/publication/household-participation-in-international-financial-markets-empirical-evidence-from-italy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Asymmetric Shocks and Fiscal Federalism in EU</title>
+      <link>https://lucadgsplendore.netlify.app/publication/asymmetric-shocks-and-fiscal-federalism-in-eu/</link>
+      <pubDate>Sun, 02 Oct 2005 00:00:00 +0000</pubDate>
+      <guid>https://lucadgsplendore.netlify.app/publication/asymmetric-shocks-and-fiscal-federalism-in-eu/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

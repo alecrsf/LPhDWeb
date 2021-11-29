@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://lucadgsplendore.netlify.app/sitemap.xml
