@@ -39,9 +39,9 @@ experience:
     description: |2-
         * I was in charge of Wholesale and Retail Trade index.
         * I worked on the implementation of new Short Term Statistics Quality Indicators: Mean Absolute Revision (MAR), Relative Mean Absolute Revision (RMAR) and Mean Revision (MR)
-        * I am associated guest editor of the special NTTS 2019 is- sue of Journal of Official Statistics (JOS) and I was dis- cussant at New Techniques and Technologies for Stati- stics (NTTS), 12-14 March 2019 in Brussels, Session: Remo- ving seasonality for better economic reading. I took part in the meetings of Seasonal Adjustment Expert Group (SAEG, 11th March 2019, National Bank of Belgium) and in the meeting of Seasonal Adjustment Center of Excellence (SACE, 15th March 2019, National Bank of Belgium)
-        * Presentation ‘Adding seasonality to BFL method.’ (with Abe- la Kevin), and Chairman of Session 7: Nowcasting, Work- shop on Time Series Methods for Official Statistics, OECD, 26-27 September 2019, Paris.
-        * Call for Statistical Papers European Statistics Day NSO Malta: ‘Seasonality on Boot, Feibes and Lisman tem- poral disaggregation method’ (with Abela Kevin)
+        * I am associated guest editor of the special NTTS 2019 issue of Journal of Official Statistics (JOS) and I was discussant at New Techniques and Technologies for Statistics (NTTS), 12-14 March 2019 in Brussels, Session: Removing seasonality for better economic reading. I took part in the meetings of Seasonal Adjustment Expert Group (SAEG, 11th March 2019, National Bank of Belgium) and in the meeting of Seasonal Adjustment Center of Excellence (SACE, 15th March 2019, National Bank of Belgium)
+        * Presentation ‘Adding seasonality to BFL method.’ (with Abela Kevin), and Chairman of Session 7: Nowcasting, Workshop on Time Series Methods for Official Statistics, OECD, 26-27 September 2019, Paris.
+        * Call for Statistical Papers European Statistics Day NSO Malta: ‘Seasonality on Boot, Feibes and Lisman temporal disaggregation method’ (with Abela Kevin)
         * I took part in the following training courses: PwC’s Aca- demy Malta: ‘Financial Statement Advanced’, November 2019; ‘Desk Profiling, Training, Mentoring and Technical-Aid for Business Register and Structural Business Statistics’, May 2019, ‘Communicating in a Business Environment, Advanced Level’, April 2019, National Statistics Office, Malta: ‘Information Security training, May 2019.
         
   - title: Senior Academic Staff
@@ -70,7 +70,7 @@ experience:
         * Statistician: Tunisia (15/09/2014 - 14/01/15)
         * Statistician: Kosovo (18/05/2014 - 24/06/2014)
         * Software analyst: Honduras (02/10/2013 - 18/12/2013)
-        * Statistician: Kenya (19/01/2013 -05/04/2013).
+        * [Statistician: Kenya](https://eeas.europa.eu/archives/eueom/missions/2013/kenya/core_team_en.htm) (19/01/2013 -05/04/2013).
         * Member of ITS Research and Academic Publications Board
         
   - title: Founder and CEO
@@ -90,7 +90,7 @@ experience:
     date_start: '2016-09-19'
     date_end: '2017-06-02'
     description: |2-
-        * Projects: Update of ESS Handbook on quality and metada- ta reports, Eurostat.
+        * Projects: Update of ESS Handbook on quality and metadata reports, Eurostat.
         * The Conversion of national metadata to ESS standards, AGRI Animal production (Meat and livestock statistics), Eurostat.
         
   - title: Consultant
@@ -101,9 +101,9 @@ experience:
     date_start: '2012-12-10'
     date_end: '2012-01-01'
     description: |2-
-        * Leading a special analysis on statistical trade data and al- so led research on e-commerce in the Business Development Division under the supervision of Senior Deputy General Secretary (Head of Business Development Division).
+        * Leading a special analysis on statistical trade data and also led research on e-commerce in the Business Development Division under the supervision of Senior Deputy General Secretary (Head of Business Development Division).
 
-        * Analyziyng the main inconsistencies of bureaucratic and stati- stical reports in order to understand the lower rate of intertrade exchange among North-African countries. I researched the import- ant determinants to develop e-commerce.
+        * Analyziyng the main inconsistencies of bureaucratic and statistical reports in order to understand the lower rate of intertrade exchange among North-African countries. I researched the important determinants to develop e-commerce.
         
         * I managed in multicultural environments such as the Union for the Mediterranean in order to communicate and divulge statistics.
 

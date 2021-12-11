@@ -39,7 +39,7 @@ social:
   link: https://facebook.com/blu.luca
 - icon: graduation-cap
   icon_pack: fas
-  link: 
+  link: https://scholar.google.com/citations?user=9b8kl8QAAAAJ&hl=it&oi=ao
 
 superuser: true
 title: Luca Di Gennaro Splendore

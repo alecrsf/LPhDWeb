@@ -1,5 +1,5 @@
 ---
-title: Unprecedented situation, unprecedented official data and unprecedented quality of of- ficial data
+title: Unprecedented situation, unprecedented official data and unprecedented quality of official data
 
 event: New Techniques and Technologies for Statistics (NTTS), **Eurostat**
 event_url: https://example.org
