@@ -18,11 +18,14 @@ subtitle:
 feature:
 - icon: language
   icon_pack: fas
-  name: Italian, English, Spanish, French
+  name: Italian <br> English <br> Spanish <br> French
 - icon: chart-line
   icon_pack: fas
   name: Statistics
-- name: R, LATEX, GAUSS, HTML, FORTRAN, TURBO PASCAL, SPSS, PCFIML, S-PLUS, JDemetria, Excel, Access, Moodle, E-VIEW, X11 ARIMA, Dreamweaver and Photoshop
+
+- icon: laptop-code
+  icon_pack: fas
+  name: R <br> LATEX <br> HTML <br> SPSS <br> Excel <br> Moodle
 
 # Uncomment to use emoji icons.
 #- icon: ':smile:'

@@ -31,21 +31,29 @@ experience:
     
   - title: Senior Statistician
     company: National Statistics Office, Malta
-    company_url: 'https://nso.gov.mt/en/Pages/NSO-Home.aspx'
-    company_logo: NOS
+    company_url: ''
+    company_logo:
     location: Malta
     date_start: '2018-01-01'
     date_end: '2020-12-31'
-    description: 
+    description: |2-
+        * I was in charge of Wholesale and Retail Trade index.
+        * I worked on the implementation of new Short Term Statistics Quality Indicators: Mean Absolute Revision (MAR), Relative Mean Absolute Revision (RMAR) and Mean Revision (MR)
+        * I am associated guest editor of the special NTTS 2019 issue of Journal of Official Statistics (JOS) and I was discussant at New Techniques and Technologies for Statistics (NTTS), 12-14 March 2019 in Brussels, Session: Removing seasonality for better economic reading. I took part in the meetings of Seasonal Adjustment Expert Group (SAEG, 11th March 2019, National Bank of Belgium) and in the meeting of Seasonal Adjustment Center of Excellence (SACE, 15th March 2019, National Bank of Belgium)
+        * Presentation ‘Adding seasonality to BFL method.’ (with Abela Kevin), and Chairman of Session 7: Nowcasting, Workshop on Time Series Methods for Official Statistics, OECD, 26-27 September 2019, Paris.
+        * Call for Statistical Papers European Statistics Day NSO Malta: ‘Seasonality on Boot, Feibes and Lisman temporal disaggregation method’ (with Abela Kevin)
+        * I took part in the following training courses: PwC’s Aca- demy Malta: ‘Financial Statement Advanced’, November 2019; ‘Desk Profiling, Training, Mentoring and Technical-Aid for Business Register and Structural Business Statistics’, May 2019, ‘Communicating in a Business Environment, Advanced Level’, April 2019, National Statistics Office, Malta: ‘Information Security training, May 2019.
         
   - title: Senior Academic Staff
     company: Institute of Tourism Studies Malta
-    company_url: 'https://its.edu.mt/'
-    company_logo: ITS
+    company_url: ''
+    company_logo:
     location: Malta
     date_start: '2019-01-01'
     date_end: '2020-12-31'
-    description: 
+    description: |2-
+        * Lecture (part-time) of Applied Statistics for Business Research, MBA in International Hospitality Management.
+        * Member of ITS Research and Academic Publications Board
 
   - title: Statistical Consultant
     company: European Union Election Observation Missions (EUEOM)
@@ -81,15 +89,23 @@ experience:
     location: Luxembourg
     date_start: '2016-09-19'
     date_end: '2017-06-02'
-    description: 
-    
+    description: |2-
+        * Projects: Update of ESS Handbook on quality and metadata reports, Eurostat.
+        * The Conversion of national metadata to ESS standards, AGRI Animal production (Meat and livestock statistics), Eurostat.
+        
   - title: Consultant
     company: Union for the Mediterranean
-    company_url: 'https://ufmsecretariat.org/'
+    company_url: ''
     company_logo: ufm
     location: Barcelona
     date_start: '2012-12-10'
     date_end: '2012-01-01'
+    description: |2-
+        * Leading a special analysis on statistical trade data and also led research on e-commerce in the Business Development Division under the supervision of Senior Deputy General Secretary (Head of Business Development Division).
+
+        * Analyziyng the main inconsistencies of bureaucratic and statistical reports in order to understand the lower rate of intertrade exchange among North-African countries. I researched the important determinants to develop e-commerce.
+        
+        * I managed in multicultural environments such as the Union for the Mediterranean in order to communicate and divulge statistics.
 
   - title: Professor in Statistics
     company: University Pompeu Fabra
@@ -98,12 +114,7 @@ experience:
     location: Barcelona, Spain
     date_start: '2006-01-01'
     date_end: '2011-12-31'
-    description: |2-
-        * **Data Analysis**, Department of Economics and Business, **in Spanish**, *2006-2011*
-        <br> 180 students first year. Students’ evaluation on teaching quality: 7.67 over 10.
-        * **Probability and Statistics**, Department of Economics and Business, **in English**, *2009-2011*
-        * **Advanced Market Analysis**, Studies for International Business Management (ESCI), *2009-2011*
-        * **Data Analysis**, Studies for International Business Management (ESCI), *2009-2011*
+    description: Research on probability and applied statistics. Teaching from Data Analysis to Advanced Market Analysis and Multivariate Analysis courses in English and Spanish.
    
   - title: Postdoctoral researcher in Statistics
     company: University of Bologna, Italy
@@ -113,25 +124,7 @@ experience:
     date_start: '2007-01-01'
     date_end: '2009-12-31'
 
-  - title: Teaching Assitant
-    company: University of Bologna, Italy
-    company_url: 'https://www.unibo.it/it'
-    company_logo: unibo
-    location: Barcelona, Spain
-    date_start: '2002-01-01'
-    date_end: '2006-12-31'
-    description: |2-
-        * **Advanced Econometrics**, Faculty of Statistics, Graduate Course, *2004-2005*
-        * **Econometrics**, Faculty of Statistics, Undergraduate Course, *2004-2005*
-        * **Forecasting**, Faculty of Statistics, Undergraduate Course, *2004-2005*
-        * **Statistics and probability**, Faculty of Economics (Rimini), Undergraduate Course, *2002-2003*
-        * **Sample theory**, Faculty of Economics  (Rimini), Undergraduate Course, *2002-2003*
-        * **Tourism Statistics**, Faculty of Economics (Rimini), Undergraduate Course, *2002-2003*
     
 design:
   columns: '2'
 ---
-
-#### To read the detailed description of my work experiences:
-
-{{< cta cta_text="Download my CV" cta_link="media/CV_LDG_Splendore.pdf" cta_new_tab="false" >}}

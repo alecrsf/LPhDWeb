@@ -7,7 +7,7 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 70
+weight: 35
 
 title: 'Recent & Upcoming Talks'
 subtitle:
@@ -38,3 +38,7 @@ design:
   #   4 = Citation (publication only)
   view: 1
 ---
+
+{{% callout note %}}
+See the talk to students about: <br> ["*Electoral observation: Implementation, methodological and ethical issues*"](./talk/electoral-observation-experiences-from-kenya-tunisia-kosovo-nigeria-honduras-and-peru-implementation-methodological-and-ethical-issues/) <br> at **New York University, Shanghai**
+{{% /callout %}}
