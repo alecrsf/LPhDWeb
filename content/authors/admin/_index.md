@@ -22,7 +22,7 @@ interests:
 
 organizations:
 - name:  UNHCR, Bureau of the Americas.
-  url: https://www.unhcr.org/panama.html
+  url: https://www.unhcr.org/americas.html
 role: Statistics and Data Analysis Officer
 social:
 - icon: envelope
