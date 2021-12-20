@@ -13,10 +13,13 @@ education:
     year: 2001
 email: "luca.di.gennaro.splendore@gmail.com"
 highlight_name: true
+
 interests:
-- Statistics
-- Data
-- Elections
+- Official statistics 
+- Humanitarian data
+- Election (Observation) 
+- Survey in conflict area
+
 organizations:
 - name:  UNHCR, Bureau of the Americas.
   url: https://www.unhcr.org/panama.html
@@ -45,6 +48,8 @@ superuser: true
 title: Luca Di Gennaro Splendore
 ---
 
-<p style='text-align: justify;'> I have been dedicating the last 25 years of my life to statistics. I accumulated years of increasingly significant experience in statistical consultancy in real economy, electoral processes and official statistics. I have in-depth knowledge of development cooperation dynamics and official statistics of Eurostat, International Monetary Fund and United Nation; comparative experience in developing and leading statistical projects with teams of over 50 nationalities in different 15 countries with European Union (EU), the Organisation for Security and Co-operation in Europe (OSCE), Union for the Mediterranean (UfM) and National Democratic Institute (NDI). I was professor in Statistics at University Pompeu Fabra (Spain) for 5 years and I hold a PhD in Statistics. I am authored several publications in the area of applied statistics and, among other, I presented in New York University, European Parliament, International Statistical Institute, Econometric Society, International Economic Association and European Survey Research Association. </p>
+<p style='text-align: justify;'> I love statistics when it is about solving real problems. I have been dedicating the last 25 years of my life to statistics. I accumulated years of increasingly significant experience in statistical consultancy in official statistics, humanitarian data, real economy and electoral processes. 
+I have in-depth knowledge of development cooperation dynamics and official statistics. And comparative experience in developing and leading statistical projects with teams of over 50 nationalities in different 15 countries with different international organizations. 
+I was professor in Statistics in different universities and I hold a PhD in Statistics. I am authored several publications in the area of applied statistics and, among other, I presented in New York University, European Parliament, International Statistical Institute, Econometric Society, International Economic Association and European Survey Research Association. </p>
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV_LDG_Splendore.pdf" "newtab" >}}resumé{{< /staticref >}}.

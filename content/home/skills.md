@@ -25,7 +25,7 @@ feature:
 
 - icon: laptop-code
   icon_pack: fas
-  name: R <br> LATEX <br> HTML <br> SPSS <br> Excel <br> Moodle
+  name: R <br> STATA <br> LATEX <br> HTML <br> SPSS <br> Excel <br> Moodle
 
 # Uncomment to use emoji icons.
 #- icon: ':smile:'

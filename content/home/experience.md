@@ -22,7 +22,7 @@ date_format: Jan 2006
 experience:
   - title: Statistics and Data Analysis Officer
     company: UNHCR, Bureau of the Americas, Panama
-    company_url: ''
+    company_url: 'https://www.unhcr.org/americas.html'
     company_logo: unhcr
     location: Panama
     date_start: '2021-01-01'
@@ -45,7 +45,8 @@ experience:
     location: Malta
     date_start: '2019-01-01'
     date_end: '2020-12-31'
-    description: 
+    description: |2-
+        * **Applied  Statistics  for  Business  Research**, in English, MBA in *International Hospitality Management*
 
   - title: Statistical Consultant
     company: European Union Election Observation Missions (EUEOM)
@@ -73,7 +74,25 @@ experience:
     date_start: '2017-01-01'
     date_end: '2018-12-31'
     description: A company dedicated to data science applied to digital political campaigns.
-    
+
+  - title: Teaching
+    company: Luxembourg School  of  Business
+    company_url: 'https://luxsb.lu/'
+    company_logo:
+    location: Luxembourg
+    date_start: '2017-03-01'
+    description: |2-
+        * **What is statistics?**
+
+  - title: Talk for students
+    company: New York University, Shanghai
+    company_url: 'https://shanghai.nyu.edu/cn/gazette-chinese/huan-ying-fan-xiao-xin-xue-qi-de-di-yi-qi-hui-bao-ru-yue-er-zhi-heather-leejiao-shou'
+    company_logo: 
+    location: Shanghai
+    date_start: '2017-02-13'
+    description: |2-
+        * **Electoral observation: Implementation, methodological and ethical issues**
+
   - title: Statistical Project Leader
     company: Sogeti, Group Capgemin
     company_url: 'https://www.sogeti.com/'
