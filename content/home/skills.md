@@ -21,11 +21,11 @@ feature:
   name: Italian <br> English <br> Spanish <br> French
 - icon: chart-line
   icon_pack: fas
-  name: Statistics
+  name: Statistics <br> Official Statistics <br> Humanitarian Data and Survey in conflict area <br> Election (Observation)
 
 - icon: laptop-code
   icon_pack: fas
-  name: R <br> STATA <br> LATEX <br> HTML <br> SPSS <br> Excel <br> Moodle
+  name: R and many statistical softwares <br> LATEX <br> HTML <br> Moodle
 
 # Uncomment to use emoji icons.
 #- icon: ':smile:'
